@@ -14,7 +14,7 @@ I created it to improve my frontend skills 😃
 
 ## Live Demo
 
-[Live Demo Link](https://tomekswitecki.github.io/3-column-preview-card/)
+[Live Demo Link](https://tomekswitecki.github.io/profile-card-component/)
 
 ## Authors
 
